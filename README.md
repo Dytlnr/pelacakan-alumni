@@ -113,6 +113,11 @@ http://127.0.0.1:8000
 ### Halaman Data Alumni
 <img width="3584" height="2240" alt="image" src="https://github.com/user-attachments/assets/7caf88f2-e380-42d9-b63b-92a09dc971a0" />
 
+### Halaman Detail Data Alumni
+<img width="3584" height="2240" alt="image" src="https://github.com/user-attachments/assets/8ddfce05-2b78-4c9a-8c8f-3e0100b3dbce" />
+
+### Halaman Menambahkan Alumni
+<img width="3584" height="2240" alt="image" src="https://github.com/user-attachments/assets/b2f6200d-26e5-4abb-92d2-00abf956cf01" />
 
 ### Halaman Hasil Pelacakan
 <img width="3584" height="2240" alt="image" src="https://github.com/user-attachments/assets/5b55b815-bede-468f-b450-f64b9541219c" />
